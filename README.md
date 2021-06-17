@@ -11,4 +11,4 @@ La apliación usa como BD Firebase (gratuito) y toma las direcciones url de la i
 ## Desarrollo
 
 En la creación de la misma, se utilizaron Hooks (Estaso y eventos),Componentes(Eventos y estados).
-### Boostrap ### JavaScript
+### Bootstrap JavaScript
