@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+table, td, th { 
+  border: 1px solid;
+  text-align: center; 
+}
+.fondo{
+
+  background-image: url("compra.jpg");
+  background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.fondo1{
+
+  background-image: url("registroimg.png");
+  background-repeat:no-repeat;
+	background-size:contain;
+}
+
+img{
+width: 200px;
+height:200px ;
+
+}
+
+.Tp{
+
+  margin: 0 auto ;
+  padding: 200px;
+  text-align: center;
+  
+  width: 500px;
+  height: 925px;
+	font-family: "Verdana";
+	
+  
+}
+.Tp label{ 
+
+  width:120px;
+ 
+	font-weight:bold;
+	display:inline-block;
+  margin-left: -100px;
+
+}
+
+.Tp input{
+
+  width:180px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#83f7dc;
+	margin:8px 0;
+	display:inline-block;
+	
+}
+
+.Tp Button{
+     text-align: center;
+}
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
