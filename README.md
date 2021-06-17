@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Mi primera aplicación creada en React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es mi primer proyecto con el framewok React, asi que es una aplicación sencilla.
 
-## Available Scripts
+## Deatlles
 
-In the project directory, you can run:
+La apliación usa como BD Firebase (gratuito) y toma las direcciones url de la imagenes, si hay algún enlace roto o no se puede acceder a la base, el problema radica ahi.
 
-### `npm start`
+### `Clickear en Inicio`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
